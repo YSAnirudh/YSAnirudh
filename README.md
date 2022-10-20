@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Portfolio - https://www.ysanirudh.com/
+LinkedIn - https://www.linkedin.com/in/ysanirudh/
 <!--
 **YSAnirudh/YSAnirudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
